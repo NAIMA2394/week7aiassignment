@@ -78,10 +78,7 @@ Each model is selected based on its interpretability, performance, and appropria
 ## 👥 Contributors
 
 - Naima Noah Kassim  
-- Peer Group Members (Add if applicable)
 
 ---
 
 ## 📜 License
-
-This project is part of the AI for Software Engineering course and intended for academic use only.
